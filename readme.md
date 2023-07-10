@@ -7,9 +7,9 @@
 4. Install chai: `npm install --save-dev chai`
 5. Install mochawesome: `npm install --save-dev mochawesome`
    
-## Run tests with exist source:
+## Run tests and generate report with exist source:
 Run `npm install` first.
-Then run `npm run test`
+Then run `npm run test` to run test and generate report as well, see scripts in package.json file
  
 
 
